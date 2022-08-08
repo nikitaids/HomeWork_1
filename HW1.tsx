@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import Message from "./Message";
 import {Button} from "./Button";
 import s from './Message.module.css';
-//
+
 let messageData =
     {
         avatar: 'https://sun9-74.userapi.com/Ph-WiuOtF985il9AvN9JqiCWedmHtSGSSTXrSA/ltEB2Z2-YO4.jpg',
